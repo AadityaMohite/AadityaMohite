@@ -24,9 +24,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 💻 Most Used Languages
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AadityaMohite&layout=compact&theme=radical&hide_border=false)
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AadityaMohite&icon=0&color=0)](https://visitcount.itsvg.in)
